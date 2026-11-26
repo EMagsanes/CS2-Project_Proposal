@@ -105,3 +105,12 @@ Return to MAIN interface
 *==== [0] End Program
 END PROGRAM
 ```
+
+Assign Work to each members:
+Task / Activity | Assigned Member(s) | Target Date | Status |
+| :--- | :--- | :--- | :--- |
+| **Project Planning** | All members | Nov. 18 | Completed |
+| **Feature Developmet** | Vete | Nov. 19 | Completed |
+| **Data Design** | Correos | Nov. 19 | Completed |
+| **WireFrame Creation** | Magallanes | Nov. 20 | Completed |
+| **Documentation** | All members | Nov 23. | Completed |
