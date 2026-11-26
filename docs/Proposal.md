@@ -10,6 +10,17 @@ Schools often struggle to organize and manage student records because paper-base
 Target Users / Beneficiaries:
 The target users of this program are the teachers and class advisers.
 
+Outline of Features:
+
+
+
+Features | Description | Persistent data to be used |
+| :--- | :--- | :--- |
+| **[1] Calculate GWA** | Allows the user to calculate a chosen student GWA | Student grades, subject names, and units per subject |
+| **[2] Low grade indentification** | Allows the user to know if the chosen student has a low grade mark in any subject | Student grades per subject and the minimum passing grade |
+| **[3] Student record search** | Allows the user to see the full student record which includes the current performance, section, year level, etc. | Student ID, full name, grade level, section, school year, and academic records |
+| **[4] Add new student** | Allows the user to create a new student infomation sheet if the student is new | Student ID, full name, age, grade level, section, and school year | 
+| **[5] Edit student record** | Allows the user to input new records such as grades, section, etc. | Existing student information, grades, section, and other updated records |
 
 
 
