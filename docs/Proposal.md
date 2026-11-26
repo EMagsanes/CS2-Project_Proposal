@@ -50,9 +50,9 @@ Return to MAIN interface
 |
 1. Enter student ID number
 2. If student has a grade greater than 2.50:
-Output(Low grade identified { GRADE })
+        Output(Low grade identified { GRADE })
     Else:
-Output(No low grade identified)
+        Output(No low grade identified)
 |
 Return to MAIN interface
 |
