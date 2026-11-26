@@ -32,7 +32,7 @@ If choice is between 0-5
 Else:
 	Output(Invalid Choice. Please Try Again.)
              Return to MAIN interface
-
+```mermaid
 Flowchart:
 MAIN interface0
 |
@@ -88,3 +88,4 @@ Return to MAIN interface
 |
 *==== [0] End Program
 END PROGRAM
+```
