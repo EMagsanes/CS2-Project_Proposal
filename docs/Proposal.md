@@ -10,6 +10,15 @@ Schools often struggle to organize and manage student records because paper-base
 ## Target Users / Beneficiaries:
 The target users of this program are the teachers and class advisers.
 
+## Persistent Data Description
+Student records will be permanently stored in a file so that all data is saved even after the program is closed. 
+The file will include:
+   Students calculated GWA 
+   Student data(Student id, etc.)
+   Records of students with low grade(after identifying) 
+The file will ensure a smooth recovery whenever a specific file is needed for the student. It will only be accessed to trusted people only to ensure that the information will not be edited or leaked to the public. 
+
+
 ## Outline of Features:
 
 Features | Description | Persistent data to be used |
