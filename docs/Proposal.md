@@ -1,16 +1,16 @@
-Project Title:
+#Project Title:
 Student Record Management System
 
-Brief Description:
+#Brief Description:
 The project will help teachers and class advisors be able to access information in a well organized record. It will help prevent misinformation often due to the paper-based systems that are slow, messy, and have a chance to be lost. In this program, the user can search up a student record. They could either calculate the student GWA, find out if the student has a low grade, add a new student if they need to, and be able to edit the student record.
 
-Problem Statement:
+#Problem Statement:
 Schools often struggle to organize and manage student records because paper-based systems are slow, messy, and prone to loss. This makes it difficult for teachers and class advisers to access student information quickly and efficiently.  
 
-Target Users / Beneficiaries:
+#Target Users / Beneficiaries:
 The target users of this program are the teachers and class advisers.
 
-Outline of Features:
+#Outline of Features:
 
 Features | Description | Persistent data to be used |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ Features | Description | Persistent data to be used |
 | **[4] Add new student** | Allows the user to create a new student infomation sheet if the student is new | Student ID, full name, age, grade level, section, and school year | 
 | **[5] Edit student record** | Allows the user to input new records such as grades, section, etc. | Existing student information, grades, section, and other updated records |
 
-Sample Wireframe
+#Sample Wireframe
 MAIN interface:
 ```text
 ===============================
