@@ -10,7 +10,7 @@ Schools often struggle to organize and manage student records because paper-base
 ## Target Users / Beneficiaries:
 The target users of this program are the teachers and class advisers.
 
-# Outline of Features:
+## Outline of Features:
 
 Features | Description | Persistent data to be used |
 | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ Features | Description | Persistent data to be used |
 | **[5] Edit student record** | Allows the user to input new records such as grades, section, etc. | Existing student information, grades, section, and other updated records |
 
 ## Sample Wireframe
-MAIN interface:
+### MAIN interface:
 ```text
 ===============================
 —-- Student Record —--
