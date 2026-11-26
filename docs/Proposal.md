@@ -16,7 +16,7 @@ The target users of this program are the teachers and class advisers.
 
 Sample Wireframe
 MAIN interface:
-
+```text
 ===============================
 —-- Student Record —--
 [1] Calculate GWA
@@ -32,6 +32,7 @@ If choice is between 0-5
 Else:
 	Output(Invalid Choice. Please Try Again.)
              Return to MAIN interface
+```
 ```mermaid
 Flowchart:
 MAIN interface0
