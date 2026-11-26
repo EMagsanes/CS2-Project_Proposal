@@ -32,16 +32,15 @@ If choice is between 0-5
 Else:
 	Output(Invalid Choice. Please Try Again.)
              Return to MAIN interface
-```
-```mermaid
+
 Flowchart:
 MAIN interface0
 |
 |
 |
 * ==== [1] Calculate GWA
-              |
-             1. Enter student ID number
+|
+1. Enter student ID number
 2. Student GWA output
 |
 Return to MAIN interface
@@ -52,7 +51,7 @@ Return to MAIN interface
 1. Enter student ID number
 2. If student has a grade greater than 2.50:
         Output(Low grade identified { GRADE })
-    Else:
+   Else:
         Output(No low grade identified)
 |
 Return to MAIN interface
